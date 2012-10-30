@@ -1,1 +1,1 @@
-clear
+clear no putty
